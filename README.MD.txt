@@ -48,3 +48,5 @@ Criação da conexão com banco de dados:
 	Sinalizar para o Java Dependencies que vou utilizar um sgbd externo, graddle
 	Dentro do build Scripts>build graddle colocar o texto da busca do google na tag 'dependencies' (mysql-connector java graddle: resultado pelo maven repository : graddle).
 	Daí ele vai baixar as dependencias para dentro do projeto
+
+teste
