@@ -34,4 +34,17 @@ Banco de dados:
 	Necessário criar tabelas no banco de dados para utilização no programa
 	Necessário prototipar (desenhar) as telas do programa
 	Necessário definir paleta de cores e ícones que serão usados
-v 
+
+Criação do projeto:
+
+	Criar classes do modelo (model)
+	Criar classes da View
+	Criar classes do Controller
+
+Criação da conexão com banco de dados:
+
+	Criar a classe connection Factory com informações da conexão com banco 	
+	Necessário criar método para abrir a conexão com banco e fechar 
+	Sinalizar para o Java Dependencies que vou utilizar um sgbd externo, graddle
+	Dentro do build Scripts>build graddle colocar o texto da busca do google na tag 'dependencies' (mysql-connector java graddle: resultado pelo maven repository : graddle).
+	Daí ele vai baixar as dependencias para dentro do projeto
