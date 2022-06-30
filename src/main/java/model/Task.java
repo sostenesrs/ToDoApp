@@ -1,5 +1,7 @@
 package model;
 import java.util.Date;
+import java.util.List;
+import java.util.logging.Logger;
 
 /**
  *
